@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malharivydyula
 - 👀 I’m interested in making and breaking code
-- 🌱 I’m currently learning serverless frameworks and auto deployment 
+- 🌱 I’m currently learning serverless frameworks and auto deployment in AWS using cloudformation
 - 💞️ I’m looking to collaborate on learning how to use github better
 - 📫 How to reach me malhari.vydyula@gmail.com
 
